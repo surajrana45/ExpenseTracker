@@ -8,9 +8,11 @@ const dummy = [
   {
     id: 1,
     title: "Toilet Paper",
+
     amount: 94.12,
     date: new Date(2020, 7, 14),
   },
+
   {
     id: 2,
     title: "New TV",
